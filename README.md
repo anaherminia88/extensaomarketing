@@ -3,7 +3,7 @@ Projeto de extensão Probex 2020 para a divulgação da estatística
 
 Projeto probex 2020 Marketing&Imagem
 
-Título:
+Título: O Papel do Estatístico na Sociedade: Ações de Conscientização e Divulgação
 
 Resumo:
 
