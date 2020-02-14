@@ -11,7 +11,7 @@ Justificativa: Segundo o conselho regional de estatística da terceira região (
 
 Impacto social: acesso à formação, informação e inovação.
 
-Fundamentação teórica: 
+Fundamentação teórica: Segundo Cericatto et al. (2017) e Barreto e Aiello-Vaisberg (2007), a adolescência, particularmente durante o Ensino Médio, é um momento de grande importância devido à necessidade de realizar a escolha profissional. Frequentemente, esses jovens não têm maturidade suficiente para realizar essa escolha. Cericatto et al. (2017) avaliaram a maturidade de adolescentes segundo a Escala Maturidade para a Escolha Profissional (EMEP) e detectaram que, apesar de a EMEP melhorar com a idade e o decorrer do Ensino Médio, os resultados obtidos foram abaixo do esperado, pois faltam aos jovens informações que os ajudem a tomar essa decisão. Assim, torna-se necessário realizar ações para contribuir com uma escolha profissional responsável e satisfatória. Essas ações podem incluir visitas às escolas públicas e particulares, palestras, participações em feiras de profissões e conteúdos digitais.   
 
 Metodologia:
  - Preparação de material de divulgação da carreira do Estatístico;
