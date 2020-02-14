@@ -3,7 +3,7 @@ Projeto de extensão Probex 2020 para a divulgação da estatística
 
 Projeto probex 2020 Marketing&Imagem
 
-Título: O Papel do Estatístico na Sociedade: Ações de Conscientização e Divulgação
+Título: O Papel da Estatística na Sociedade: Ações de Conscientização e Divulgação
 
 Resumo:
 
@@ -11,7 +11,7 @@ Justificativa: Segundo o conselho regional de estatística da terceira região (
 
 Impacto social: acesso à formação, informação e inovação.
 
-Fundamentação teórica:
+Fundamentação teórica: 
 
 Metodologia:
  - Preparação de material de divulgação da carreira do Estatístico;
@@ -24,6 +24,9 @@ Referências:
 http://conteudo.icmc.usp.br/Portal/Noticias/leituraNoticias.php?tipoNoticia=Ensino&id_noticia=240
 http://www.estatistica.ufes.br/estat%C3%ADsticos-no-mercado-de-trabalho
 http://www.ime.unicamp.br/sinape/19sinape/node/756
+
+CERICATTO, Camila; ALVES, Cássia Ferrazza; PATIAS, Naiana Dapieve. A Maturidade para a Escolha Profissional em Adolescentes do Ensino Médio. Rev. Psicol. IMED,  Passo Fundo ,  v. 9, n. 1, p. 22-37, jun.  2017 .   Disponível em <http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S2175-50272017000100003&lng=pt&nrm=iso>. acessos em  14  fev.  2020.  http://dx.doi.org/10.18256/2175-5027.2017.v9i1.1487.
+BARRETO, Maria Auxiliadora; AIELLO-VAISBERG, Tania. Escolha profissional e dramática do viver adolescente. Psicol. Soc.,  Porto Alegre ,  v. 19, n. 1, p. 107-114,  Apr.  2007 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-71822007000100015&lng=en&nrm=iso>. access on  14  Feb.  2020.  http://dx.doi.org/10.1590/S0102-71822007000100015.
 
 Objetivos gerais: disseminar a importância da estatística e com isso, aumentar a busca pelo bacharelado em estatística da UFPB e diminuir a taxa de evasão.
 
