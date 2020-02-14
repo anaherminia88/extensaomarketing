@@ -14,26 +14,23 @@ Impacto social: acesso à formação, informação e inovação.
 Fundamentação teórica:
 
 Metodologia:
-
-Visitas???
--participação em feiras de profissões promovidas pelas escolas, ao longo do ano;
--recepção de pré-concluintes do ensino médio, para a promoção de palestras, bem como conhecer as instalações do departamento de estatística;
--palestras em escolas públicas e particulares.
-
-Divulgação por mídias digitais:
-
-produção e divulgação de conteúdos;
+ - Preparação de material de divulgação da carreira do Estatístico;
+ - Participação em feiras de profissões promovidas pelas escolas, ao longo do ano; 
+ - palestras em escolas públicas e particulares;
+ - Divulgação por mídias digitais, incluindo produção e divulgação de conteúdos.
 
 
 Referências:
+http://conteudo.icmc.usp.br/Portal/Noticias/leituraNoticias.php?tipoNoticia=Ensino&id_noticia=240
+http://www.estatistica.ufes.br/estat%C3%ADsticos-no-mercado-de-trabalho
+http://www.ime.unicamp.br/sinape/19sinape/node/756
 
-Objetivos gerais: disseminar a importância da estatística e com isso, melhorar a qualidade dos alunos do bacharelado em estatística da UFPB
+Objetivos gerais: disseminar a importância da estatística e com isso, aumentar a busca pelo bacharelado em estatística da UFPB e diminuir a taxa de evasão.
 
-Resultados esperados:
+Resultados esperados: aumento da busca pelo bacharelado em estatística da UFPB a curto e médio prazo, diminuição da taxa de evasão a longo prazo, além de produção científica abordando o impacto das ações relacionadas ao projeto.
 
-pesquisa??? mercado de trabalho atual???
 
-PRODUTOS: textos, vídeos. Programa de rádio e tv???
+PRODUTOS: materiais de divulgação, incluindo folders e pôsters para distribuição e entrega em feiras de profissões e palestras, além de textos e vídeos para publicação em redes sociais.
 
 
 
@@ -43,7 +40,7 @@ CHT 720 h
 CHM 80 h
 CHS 20 h
 
-colocar a função de cada membro da equipe e conseguir um professor do DMID (Signe? Paulo? Yakara?)
+colocar a função de cada membro da equipe e conseguir um professor do DMID (Paulo Serrano)
 
 
 
